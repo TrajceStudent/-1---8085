@@ -1,6 +1,10 @@
 # Zadaca-br.1_8085
+To initialize the 8155/56 component so that the RAM occupies space 4800h–48FFh. 
+Port A to be initialized as a gated input port, and B as a normal output port. 
+The timer counts a train of short pulses with T = 1ms. (f=4MHZ).
 
-![Screenshot (1)](    )
+
+![Screenshot (1)](  https://github.com/TrajceStudent/Zadaca-br.1_8085/blob/main/image1.png  )
 
 
 				
